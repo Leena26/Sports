@@ -1,0 +1,42 @@
+header{
+    background:black;
+    color:whitesmoke;
+    text-align:center;
+    font-family: 'Piedra', cursive;
+}
+#basketball{
+    background:lightseagreen;
+    color: whitesmoke;
+    text-align:center;
+    padding: 20px;
+    padding-top: 20px;
+    padding-bottom : 20px;
+    
+}
+#football{
+    background:lightsalmon;
+    color: whitesmoke;
+    text-align: center;
+    padding: 20px;
+    padding-top: 20px;
+    padding-bottom : 20px;
+}
+nav ul{
+    margin: 20px;
+    padding: 10px;
+    list-style:none;
+    align-items:center;
+    justify-content: center;
+    display: flex;
+    background-color: lightyellow;
+}
+.nav-link{
+    text-decoration: none;
+    cursor:pointer;
+    padding: 20px;
+    margin: 10px;
+}
+
+
+
+
